@@ -1,2 +1,2 @@
 # java11
-java 시작!
+java got so much better!
